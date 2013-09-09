@@ -1,4 +1,7 @@
-pobot
+Pobot.org
 =====
 
-Random robotic experimental code
+Collection of random robotic experimental code.
+
+Doppler
+-----
